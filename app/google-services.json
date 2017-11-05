@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1037815634849",
+    "firebase_url": "https://krigerapplication.firebaseio.com",
+    "project_id": "krigerapplication",
+    "storage_bucket": "krigerapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037815634849:android:eb036038c93bb1e4",
+        "android_client_info": {
+          "package_name": "com.example.nikhil.krigerapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037815634849-kqlh3c6qsjjtocsgiph2bhgc4u7betu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrFs7SPTsrUbb_UJb28MPzsQschwr8nzI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
